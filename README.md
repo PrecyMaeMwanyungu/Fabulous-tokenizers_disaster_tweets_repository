@@ -1,14 +1,21 @@
-##  TITLE
- Real or not real disaster tweets predictions.
+# Real or not real disaster tweets predictions.
+
+![tweet_classification](https://si.wsj.net/public/resources/images/NA-CJ408_TWITTS_9U_20160311133006.jpg)
+
+
+# Project Description
+
+Twitter has become an important communication channel in times of emergency.
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+
+But, it’s not always clear whether a person’s words are actually announcing a disaster.Our project intends to predict whether or not a tweet is a  diasater tweet or not.
+
 
 ## AUTHORS
- * Stella Njeri
- * Laura Kinya
- * Isaac Byron
- * Precy Mae Mwanyungu
-
-## PROJECT DESCRIPTION
-Our project intends to predict whether or not a tweet is a  diasater tweet or not. 
+ * [Stella Njeri](https://github.com/Stella-kimani)
+ * [Isaac Byron](https://github.com/UnplugCharger)
+ * [Precy Mae](https://github.com/PrecyMaeMwanyungu)
+ * [Laura Kinya](https://github.com/kinyalaura)
 
 
 ## SetUp / Installation Requirements
@@ -21,7 +28,7 @@ Our project intends to predict whether or not a tweet is a  diasater tweet or no
 ## CONTACT INFORMATION
 For email reach us through
   * stellanjeri23@gmail.com
-  * kinyalaura0@gmail.com
+  * ngolua.kinya@gmail.com
   * isaacbyron@gmail.com
   * mwanyunguprecy@gmail.com
   
